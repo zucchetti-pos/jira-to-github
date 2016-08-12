@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rastor/jira-client": "~0.3",
+        "knplabs/github-api": "^1.5"
+    }
+}
